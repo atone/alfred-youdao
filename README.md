@@ -1,6 +1,8 @@
 # alfred-youdao
 Alfred 5 workflow for Youdao dict
 
+基于网页版的有道词典，无须提供密钥，仅支持查词和短语。
+
 默认快捷键 yd, 查看翻译结果。
 
 1. 英译中
